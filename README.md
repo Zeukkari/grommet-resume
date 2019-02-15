@@ -1,2 +1,3 @@
-# react-resume
-Resume built with JSON Resume and React.
+# grommet-resume
+
+Resume built with JSON Resume and Grommet v2.
