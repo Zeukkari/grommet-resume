@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders section title element 1`] = `
+<h3
+  className="StyledHeading-sc-1rdh4aw-0 jVEgcZ"
+>
+  test
+</h3>
+`;

@@ -2,69 +2,48 @@
 
 exports[`renders skills section 1`] = `
 <div
-  className="StyledBox-sc-13pk1d4-0 eRCNqM"
+  className="StyledBox-sc-13pk1d4-0 kFdcfG"
 >
-  <div
-    className="StyledBox-sc-13pk1d4-0 igklvm"
+  <h3
+    className="StyledHeading-sc-1rdh4aw-0 jVEgcZ"
   >
-    <h1
-      className="StyledHeading-sc-1rdh4aw-0 hXQZaT"
-      size="small"
+    Web Development
+  </h3>
+  <div
+    className="StyledBox-sc-13pk1d4-0 IRSNj"
+  >
+    <h4
+      className="StyledHeading-sc-1rdh4aw-0 hlZfma"
     >
-      Skills
-    </h1>
-    <div
-      className="StyledBox__StyledBoxGap-sc-13pk1d4-1 jlbBeA"
-    />
+      Level: Master
+    </h4>
     <div
       className="StyledBox-sc-13pk1d4-0 IRSNj"
     >
-      <div
-        className="StyledBox-sc-13pk1d4-0 gzvIdm"
+      <span
+        className="StyledText-sc-1sadyjn-0 dndifk"
+        size="medium"
       >
-        <div
-          className="StyledBox-sc-13pk1d4-0 IRSNj"
+        Keywords
+      </span>
+      <div
+        className="StyledBox-sc-13pk1d4-0 dvQWRk"
+      >
+        <span
+          className="StyledText-sc-1sadyjn-0 fWSbXS"
         >
-          Web Development
-        </div>
-        <div
-          className="StyledBox-sc-13pk1d4-0 IRSNj"
+          HTML
+        </span>
+        <span
+          className="StyledText-sc-1sadyjn-0 fWSbXS"
         >
-          <div
-            className="StyledBox-sc-13pk1d4-0 ffeAql"
-          >
-            Master
-          </div>
-          <div
-            className="StyledBox-sc-13pk1d4-0 IRSNj"
-          >
-            <span
-              className="StyledText-sc-1sadyjn-0 dndifk"
-              size="medium"
-            >
-              Keywords
-            </span>
-            <div
-              className="StyledBox-sc-13pk1d4-0 IRSNj"
-            >
-              <span
-                className="StyledText-sc-1sadyjn-0 fWSbXS"
-              >
-                HTML
-              </span>
-              <span
-                className="StyledText-sc-1sadyjn-0 fWSbXS"
-              >
-                CSS
-              </span>
-              <span
-                className="StyledText-sc-1sadyjn-0 fWSbXS"
-              >
-                Javascript
-              </span>
-            </div>
-          </div>
-        </div>
+          CSS
+        </span>
+        <span
+          className="StyledText-sc-1sadyjn-0 fWSbXS"
+        >
+          Javascript
+        </span>
       </div>
     </div>
   </div>

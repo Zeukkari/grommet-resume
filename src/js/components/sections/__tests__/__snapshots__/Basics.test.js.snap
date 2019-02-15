@@ -2,41 +2,34 @@
 
 exports[`renders basics section contact info 1`] = `
 <div
-  className="StyledBox-sc-13pk1d4-0 fRAsXr"
+  className="StyledBox-sc-13pk1d4-0 gwiFdX"
 >
   <span
     className="StyledText-sc-1sadyjn-0 fWSbXS"
   >
-     email: 
+     
+    (912) 555-4321
+     
+  </span>
+  <span
+    className="StyledText-sc-1sadyjn-0 fWSbXS"
+  >
+     
     john@gmail.com
      
   </span>
   <span
     className="StyledText-sc-1sadyjn-0 fWSbXS"
   >
-     website: 
+     
     http://johndoe.com
-     
-  </span>
-  <span
-    className="StyledText-sc-1sadyjn-0 fWSbXS"
-  >
-     Location: 
-    2712 Broadway St CA 94115 San Francisco US
-     
-  </span>
-  <span
-    className="StyledText-sc-1sadyjn-0 fWSbXS"
-  >
-     Phone: 
-    (912) 555-4321
      
   </span>
   <div
     className="StyledBox-sc-13pk1d4-0 ffeAql"
   >
     <button
-      className="StyledButton-sc-323bzc-0 lhIxjU"
+      className="StyledButton-sc-323bzc-0 bvFIDd"
       onBlur={[Function]}
       onFocus={[Function]}
       type="button"
@@ -47,21 +40,9 @@ exports[`renders basics section contact info 1`] = `
 </div>
 `;
 
-exports[`renders basics section picture 1`] = `
-<div
-  className="StyledBox-sc-13pk1d4-0 dZFMXT"
->
-  <img
-    className="StyledImage-ey4zx9-0 jtkYbl"
-    size="large"
-    src="PUT FACE HERE"
-  />
-</div>
-`;
-
 exports[`renders basics section summary 1`] = `
 <div
-  className="StyledBox-sc-13pk1d4-0 kBAEek"
+  className="StyledBox-sc-13pk1d4-0 dNgQiZ"
 >
   <h1
     className="StyledHeading-sc-1rdh4aw-0 kMIJAQ"

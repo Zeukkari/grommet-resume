@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders description 1`] = `
+<p
+  className="StyledParagraph-tbetod-0 jzEULC"
+>
+  test
+</p>
+`;

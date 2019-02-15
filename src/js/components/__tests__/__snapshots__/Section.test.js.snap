@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders section element 1`] = `
+<div
+  className="StyledBox-sc-13pk1d4-0 bzUwtO"
+>
+  <div
+    className="StyledBox-sc-13pk1d4-0 fTRPed"
+  >
+    <div
+      className="StyledBox-sc-13pk1d4-0 OaRuD"
+    >
+      <div
+        className="StyledBox-sc-13pk1d4-0 jJCmt"
+      >
+        <h3
+          className="StyledHeading-sc-1rdh4aw-0 jVEgcZ"
+        />
+        <div
+          className="StyledBox-sc-13pk1d4-0 jfnaIv"
+        >
+          <div
+            className="StyledBox-sc-13pk1d4-0 dViohz"
+          >
+            <div
+              className="StyledBox-sc-13pk1d4-0 OaRuD"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

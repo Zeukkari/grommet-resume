@@ -1,13 +1,13 @@
 import React from 'react'
 import renderer from 'react-test-renderer'
 
-import {Languages} from '../Languages'
+import { Language } from '../Languages'
 
 import defaultResume from './mockResume.json'
 
 test('renders languages section', () => {
-  const data = defaultResume.languages
-  const component = renderer.create(<Languages languages={data} />)
+  const data = defaultResume.languages[0]
+  const component = renderer.create(<Language item={data} />)
   let tree = component.toJSON()
   expect(tree).toMatchSnapshot()
 })
