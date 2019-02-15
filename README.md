@@ -18,10 +18,13 @@ $ npm --save @zeukkari/grommet-resume
 
 ## Deployment
 
-Repo: https://github.com/Zeukkari/grommet-resume
-Npm package: https://www.npmjs.com/package/@zeukkari/grommet-resume
-Travis: https://travis-ci.org/Zeukkari/grommet-resume
-Coveralls: https://coveralls.io/github/Zeukkari/grommet-resume
+- Repo: https://github.com/Zeukkari/grommet-resume
+
+- Npm package: https://www.npmjs.com/package/@zeukkari/grommet-resume
+
+- Travis: https://travis-ci.org/Zeukkari/grommet-resume
+
+- Coveralls: https://coveralls.io/github/Zeukkari/grommet-resume
 
 ## References
 
