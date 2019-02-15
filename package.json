@@ -1,17 +1,17 @@
 {
-  "name": "@resumebuilder/react-resume",
+  "name": "grommet-resume",
   "private": true,
-  "version": "0.9.0",
+  "version": "0.1.0",
   "author": {
     "name": "Timo Aho",
     "email": "timo.aho@pm.me"
   },
-  "description": "React resume component",
-  "repository": "git@github.com:Zeukkari/react-resume.git",
+  "description": "jsonresume-theme with grommet v2",
+  "repository": "git@github.com:Zeukkari/grommet-resume.git",
   "license": "MIT",
-  "main": "./dist/react-resume.cjs.js",
-  "module": "./dist/react-resume.esm.js",
-  "browser": "./dist/react-resume.js",
+  "main": "./dist/grommet-resume.cjs.js",
+  "module": "./dist/grommet-resume.esm.js",
+  "browser": "./dist/grommet-resume.js",
   "scripts": {
     "build": "npm run build:components",
     "build:components": "rollup -c",
