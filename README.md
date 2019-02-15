@@ -3,7 +3,8 @@
 Resume built with JSON Resume and Grommet v2.
 
 
-[![Build Status](https://travis-ci.com/Zeukkari/grommet-resume.svg?branch=master)](http://travis-ci.org/Zeukkari/grommet-resume) [![codecov](https://codecov.io/gh/Zeukkari/grommet-resume/branch/master/graph/badge.svg)](https://codecov.io/gh/Zeukkari/grommet-resume)
+[![Build Status](https://travis-ci.com/Zeukkari/grommet-resume.svg?branch=master)](http://travis-ci.org/Zeukkari/grommet-resume) [![NPM Version](https://badge.fury.io/js/%40zeukkari%2Fgrommet-resume.svg)
+
 
 ## DEMO
 
